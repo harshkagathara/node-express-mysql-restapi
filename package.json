@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-restapi",
+  "version": "1.0.0",
+  "description": "Simple Example of nodejs to create rest call using MySQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon"
+  },
+  "author": {
+    "name": "Harsh Kagathara",
+    "email": "harshkagu29@gmail.com",
+    "url": "https://infusion-infotech.com/"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1",
+    "mysql": "^2.13.0",
+    "nodemon": "^2.0.7"
+  }
+}
